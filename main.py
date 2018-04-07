@@ -1,3 +1,8 @@
+#!env/bin/python3
+
+# Original credit to smasty.
+# https://github.com/smasty/g203-led/blob/master/g203-led.py
+
 import sys
 import usb.core
 import usb.util
